@@ -51,11 +51,11 @@ python main_bot.py
 🌐 Media Sosial & Kontak
 Untuk pembaruan lebih lanjut, pertanyaan, atau sekedar berinteraksi, berikut adalah akun media sosial saya:
 
-Instagram: @ZekkCode
+Instagram: @Zekkymp
 
-Twitter: @ZekkCode
+Github: @ZekkCode
 
-LinkedIn: ZekkCode
+LinkedIn: Zakaria Mujur Prasetyo
 
 🤝 Contributing
 Jika Anda ingin berkontribusi pada proyek ini, silakan buka issue atau buat pull request di repository ini. Kami akan sangat senang untuk menerima kontribusi Anda!
