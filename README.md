@@ -27,7 +27,7 @@ file env
 
 Pastikan untuk mengganti nilai-nilai tersebut dengan data yang sesuai.
 
-###🔑 Menjaga Kerahasiaan API Key
+### 🔑 Menjaga Kerahasiaan API Key
 Untuk menjaga keamanan API key dan informasi sensitif lainnya, gunakan file .env yang tidak akan di-upload ke GitHub. Anda dapat memanfaatkan pustaka python-dotenv untuk memuat variabel dari file .env ke dalam aplikasi Python Anda tanpa mengekspose data sensitif.
 
 Langkah-langkah untuk menjaga keamanan API key:
@@ -38,11 +38,11 @@ Gunakan pustaka python-dotenv untuk mengakses variabel dari file .env dalam kode
 
 Pastikan file .env terdaftar dalam file .gitignore agar tidak ter-commit ke GitHub.
 
-###🖥️ Penggunaan
+### 🖥️ Penggunaan
 Setelah konfigurasi selesai, jalankan bot Telegram dengan perintah berikut:
 python main_bot.py
 
-###🌐 Media Sosial & Kontak
+### 🌐 Media Sosial & Kontak
 Untuk pembaruan lebih lanjut, pertanyaan, atau sekedar berinteraksi, berikut adalah akun media sosial saya:
 
 Instagram: @Zekkymp
