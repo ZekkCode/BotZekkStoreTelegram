@@ -13,13 +13,14 @@
    Untuk mengunduh project ini ke komputer Anda, jalankan perintah berikut di terminal atau command prompt:
    ```bash
    git clone https://github.com/ZekkCode/BotZekkStoreTelegram.git
-Instalasi Dependencies: Pastikan Anda sudah memiliki Python dan pip terinstal. Untuk menginstal semua dependensi yang diperlukan, jalankan perintah berikut:
+2. Instalasi Dependencies: Pastikan Anda sudah memiliki Python dan pip terinstal. Untuk menginstal semua dependensi yang diperlukan, jalankan perintah berikut:
 
 bash
 Salin
 Edit
 pip install -r requirements.txt
-Konfigurasi File .env: Buat file .env di direktori utama proyek dan tambahkan variabel berikut:
+
+3. Konfigurasi File .env: Buat file .env di direktori utama proyek dan tambahkan variabel berikut:
 
 env
 Salin
