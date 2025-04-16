@@ -15,19 +15,15 @@
    git clone https://github.com/ZekkCode/BotZekkStoreTelegram.git
 2. Instalasi Dependencies: Pastikan Anda sudah memiliki Python dan pip terinstal. Untuk menginstal semua dependensi yang diperlukan, jalankan perintah berikut:
 
-bash
-Salin
-Edit
-pip install -r requirements.txt
+'''pip install -r requirements.txt'''
 
 3. Konfigurasi File .env: Buat file .env di direktori utama proyek dan tambahkan variabel berikut:
 
-env
-Salin
-Edit
-TOKEN=your_telegram_bot_token
-ADMIN_CHAT_ID=your_admin_chat_id
-QRIS_FILE_ID=your_qris_file_id
+file env
+'''TOKEN=your_telegram_bot_token'''
+'''ADMIN_CHAT_ID=your_admin_chat_id'''
+'''QRIS_FILE_ID=your_qris_file_id'''
+
 Pastikan untuk mengganti nilai-nilai tersebut dengan data yang sesuai.
 
 🔑 Menjaga Kerahasiaan API Key
@@ -61,14 +57,3 @@ LinkedIn: Zakaria Mujur Prasetyo
 Jika Anda ingin berkontribusi pada proyek ini, silakan buka issue atau buat pull request di repository ini. Kami akan sangat senang untuk menerima kontribusi Anda!
 
 Dikembangkan oleh ZekkCode.
-
-markdown
-Salin
-Edit
-
-### Penjelasan Perubahan:
-1. **Tampilan yang Lebih Rapi**: Menggunakan emoji dan format markdown untuk membuat deskripsi lebih menarik dan mudah dibaca.
-2. **Penambahan Media Sosial**: Ditambahkan bagian **Media Sosial** dengan link aktif ke akun Instagram, Twitter, dan LinkedIn Anda, agar orang bisa lebih mudah mengikuti perkembangan proyek atau menghubungi Anda.
-3. **Penjelasan Tentang Keamanan API Key**: Memberikan informasi lebih lengkap tentang bagaimana Anda menyimpan dan melindungi API key di dalam file `.env` dan `.gitignore`.
-
-Dengan cara ini, README Anda akan lebih informatif dan menarik, sekaligus menjaga keamanan API key proyek Anda. Semoga membantu! 😊
